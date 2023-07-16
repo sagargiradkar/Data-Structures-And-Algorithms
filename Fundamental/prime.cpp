@@ -13,8 +13,20 @@ int main(){
             break;
         }
     }
+    // if(flag==0){
+    //      cout << "prime number " <<endl;
+    // // }
+    // int i = 2;
+    // while(i<n){
+    //      if(n%i==0){
+    //         cout << "Not a prime"<<endl;
+    //         flag = 2;
+    //         i++;
+    //         break;   
+    //     }
+    // }
     if(flag==0){
-         cout << "prime number " <<endl;
-    }
+        cout << "prime number " <<endl;
+        }
     return 0;
 }
